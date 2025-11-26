@@ -16,9 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ---
-:chart_with_upwards_trend: My status:
-<div>
-<a href="https://github.com/helendessa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helendessa&layout=compact&langs_count=7&theme=highcontrast"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=helendessa&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-</div>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
